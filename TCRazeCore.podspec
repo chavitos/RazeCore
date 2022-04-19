@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TCRazeCore"
-  spec.version      = "0.3.0"
+  spec.version      = "0.3.2"
   spec.summary      = "A framework for sharing code."
 
   # This description is used to generate tags and improve search results.
