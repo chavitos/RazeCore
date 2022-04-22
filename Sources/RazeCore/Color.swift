@@ -31,6 +31,10 @@ extension RazeCore {
             return self.fromHexString("006736")
         }
         
+        public static var testColor: UIColor {
+            return self.fromHexString("000000")
+        }
+        
         
         /// Returns an object of `UIColor` with the second most eye-pleasing color known to all humanity
         public static var secondaryRazeColor: UIColor {
